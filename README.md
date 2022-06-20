@@ -1,2 +1,2 @@
 # hardhat-tutorial
-hardhat tutorial baed on https://hardhat.org/tutorial
+hardhat tutorial based on https://hardhat.org/tutorial
